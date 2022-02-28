@@ -22,6 +22,7 @@ export const Link = styled.a`
   border-radius: 7px;
   color: #3a4446;
   transition: all .3s;
+  overflow: hidden;
   div {
     display: flex;
     align-items: center;

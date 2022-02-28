@@ -9,3 +9,9 @@
   background-size: 900px;
   overflow: hidden;
 }
+
+@media screen and (max-width: 400px){
+  .App {
+    padding: 0 18px;
+  }
+}
