@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-image: url(./assets/blop.svg);
+  background-repeat: no-repeat;
+  background-size: 900px;
+}
