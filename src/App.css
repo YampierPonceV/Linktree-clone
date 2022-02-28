@@ -7,4 +7,5 @@
   background-image: url(./assets/blop.svg);
   background-repeat: no-repeat;
   background-size: 900px;
+  overflow: hidden;
 }
